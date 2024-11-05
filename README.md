@@ -29,8 +29,6 @@ Star UML
 ![activity](https://github.com/23005672/LAB-07-Passport-registration/assets/138971519/ef01fca1-e03b-4323-8cfa-607da84ede19)
 ### COMMUNICATION DIAGRAM:
 ![communication](https://github.com/23005672/LAB-07-Passport-registration/assets/138971519/f94e2acd-97c4-4259-8f0d-55fd6241a428)
-### STATECHART DIAGRAM:
-![statechart](https://github.com/23005672/LAB-07-Passport-registration/assets/138971519/a19cd9bb-9cdc-4c03-8255-a8b49d8a64ba)
 ### SEQUENCE DIAGRAM:
 ![sequence](https://github.com/23005672/LAB-07-Passport-registration/assets/138971519/98b53141-a3a4-466e-ab14-66f68f532cf6)
 ### PACKAGE DIAGRAM:
